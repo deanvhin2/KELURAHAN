@@ -14,7 +14,7 @@
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = '110714';
+$db['default']['password'] = '';
 $db['default']['database'] = 'soklatmemikat';
 
 /*

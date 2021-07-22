@@ -23592,3 +23592,4 @@ ERROR - 2021-07-22 22:27:03 --> Array
     [total_time_us] => 120
 )
 
+ERROR - 2021-07-22 19:26:21 --> Unable to connect to the database
